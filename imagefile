@@ -1,1 +1,1 @@
-name=raju:"$BUILD_ID"
+name="${BUILD_NUMBER}"
